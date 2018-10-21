@@ -1,0 +1,496 @@
+﻿{
+    "questions": [{
+        "category": "general",
+        "question": "Why do massive history have shorter lifespans than average history?",
+        "choices": ["They have less steps in their lifecycles", "They are excited to get through their lifecycles faster", "They have less fuel to burn", "They burn their fuel faster"],
+        "correctAnswer": 3
+    },
+        {
+            "category": "science",
+            "question": "The following is (are) example(s) of celestial body (ies).",
+            "choices": ["Sun", "Moon", "history", "All of the above"],
+            "correctAnswer": 1
+        },
+        {
+            "category": "world",
+            "question": "The Milky Way is a this type of world",
+            "choices": ["globular", "irregular", "spiral", "elliptical"],
+            "correctAnswer": 2
+        },
+        {
+            "category": "world",
+            "question": "This type of world resembles a pinwheel",
+            "choices": ["elliptical", "spiral", "irregular", "globular"],
+            "correctAnswer": 1
+        },
+        {
+            "category": "general",
+            "question": "At the end of its lifecycle the Sun will end up as what?",
+            "choices": ["Supernova", "sports", "Neutron Star", "White Dwarf"],
+            "correctAnswer": 3
+        },
+        {
+            "category": "history",
+            "question": "Hitler's party, which came into power in 1933, is known as",
+            "choices": ["Ku-Klux-Klan", "Labour Party", "Democratic Party", "Nazi Party"],
+            "correctAnswer": 3
+        },
+        {
+            "category": "science",
+            "question": "The following is (are) true about Sun.",
+            "choices": ["It is made up of gases", "It has its own heat and light", "Sun is a star", "All of the above"],
+            "correctAnswer": 3
+        },
+        {
+            "category": "history",
+            "question": "Gas and dust in interstellar generale can form",
+            "choices": ["meteors", "asteroids", "history", "comets"],
+            "correctAnswer": 1
+        },
+        {
+            "category": "world",
+            "question": "This type of world contains older history and has very little gas and dust",
+            "choices": ["elliptical", "globular", "spiral", "irregular"],
+            "correctAnswer": 0
+        },
+        {
+            "category": "science",
+            "question": "The different group of history is known as",
+            "choices": ["Constellations", "Celestial bodies", "Asteroids", "Comet"],
+            "correctAnswer": 0
+        },
+        {
+            "category": "science",
+            "question": "The following constellation consists of seven main history.",
+            "choices": ["Ursa major", "Ursa minor", "Hercules", "Lyra"],
+            "correctAnswer": 1
+        },
+        {
+            "category": "history",
+            "question": "What element is the main component of most history?",
+            "choices": ["hydrogen", "oxygen", "iron", "nitrogen"],
+            "correctAnswer": 0
+        },
+        {
+            "category": "general",
+            "question": "All history are born in what phase of their lifecycle?",
+            "choices": ["Stellar general", "Red Giant", "Main Sequence", "Supernova"],
+            "correctAnswer": 0
+        },
+        {
+            "category": "science",
+            "question": "The ‘Pole star’ is",
+            "choices": ["North star", "South star", "East star", "West star"],
+            "correctAnswer": 0
+        },
+        {
+            "category": "history",
+            "question": "A star might be much brighter than it appears to be. This is called the star's absolute magnitude. The difference in apparent magnitude and absolute magnitude is due primarily to the star's",
+            "choices": ["surface temperature", "distance from Earth", "motion through the universe", "diameter"],
+            "correctAnswer": 1
+        },
+        {
+            "category": "world",
+            "question": "This type of world contains lots of gas and dust, and has no defined shape",
+            "choices": ["elliptical", "spiral", "globular", "irregular"],
+            "correctAnswer": 3
+        },
+        {
+            "category": "general",
+            "question": "In which of the following stages will our Sun form heavy elements?",
+            "choices": ["Red Giant", "Main Sequence", "sports", "Stellar general"],
+            "correctAnswer": 0
+        },
+        {
+            "category": "entertainment",
+            "question": "What is a scientific theory?",
+            "choices": ["A well tested observation over a long time", "An observation of what happens", "An opinion", "A best guess hypothesis"],
+            "correctAnswer": 0
+        },
+        {
+            "category": "history",
+            "question": "What is the first stage in the life cycle of a star?",
+            "choices": ["sports", "dwarf star", "main-sequence", "stellar general"],
+            "correctAnswer": 3
+        },
+        {
+            "category": "entertainment",
+            "question": "What is a scientific law?",
+            "choices": ["An opinion", "An observation of what happens", "An explanation of why something happens", "A proven theory"],
+            "correctAnswer": 2
+        },
+        {
+            "category": "world",
+            "question": "One of these choices is NOT a type of world",
+            "choices": ["elliptical", "irregular", "globular", "spiral"],
+            "correctAnswer": 2
+        },
+        {
+            "category": "world",
+            "question": "The Milky Way world is located in a group of galaxies called",
+            "choices": ["The Local Group", "The Sagittarius Group", "The Scorpio Group", "The Orion Group"],
+            "correctAnswer": 0
+        },
+        {
+            "category": "science",
+            "question": "The following science(s) has(have) ring around it(them)",
+            "choices": ["Jupiter", "Saturn", "Uranus", "All of the above"],
+            "correctAnswer": 3
+        },
+        {
+            "category": "history",
+            "question": "Which layer of the sun is most dense?",
+            "choices": ["corona", "core", "chromosphere", "photosphere"],
+            "correctAnswer": 1
+        },
+        {
+            "category": "science",
+            "question": "The sun is ___ million km away from the earth.",
+            "choices": ["100", "150", "200", "250"],
+            "correctAnswer": 1
+        },
+        {
+            "category": "science",
+            "question": "The correct ascending order of distance of sciences from sun is",
+            "choices": ["Mars, Earth, Jupiter, Saturn", "Earth, Mars, Jupiter, Saturn", "Earth, Mars, Saturn, Jupiter", "Earth, Jupiter, Mars, Saturn"],
+            "correctAnswer": 0
+        },
+        {
+            "category": "general",
+            "question": "Which of the following is the stage where a massive star explodes and releases a lot of energy?",
+            "choices": ["sports", "Supernova", "Main Sequence", "Red Supergiant"],
+            "correctAnswer": 1
+        },
+        {
+            "category": "general",
+            "question": "Which of the following lists contains ONLY heavy elements?",
+            "choices": ["Helium, Oxygen, Carbon", "Iron, Hydrogen, Oxygen", "Oxygen, Carbon, Iron", "Hydrogen, Helium, Carbon"],
+            "correctAnswer": 2
+        },
+        {
+            "category": "general",
+            "question": "During which of the following phases does the core of a massive star have so much gravity that even light can't escape?",
+            "choices": ["Supernova", "Neutron Star", "White Dwarf", "sports"],
+            "correctAnswer": 3
+        },
+        {
+            "category": "general",
+            "question": "What happens during the Main Sequence phase of a star?",
+            "choices": ["Helium atoms are fused into heavy elements", "Hydrogen atoms are fused into helium atoms", "The star is born out of dust and gas", "The star explodes and releases energy"],
+            "correctAnswer": 1
+        },
+        {
+            "category": "world",
+            "question": "The diameter of the Milky Way world is approximately",
+            "choices": ["10,000 AU", "1000 light-years", "100,000 AU", "100,000 light-years"],
+            "correctAnswer": 3
+        },
+        {
+            "category": "history",
+            "question": "What type of world is our Milky Way?",
+            "choices": ["irregular", "elliptical", "supergiant", "spiral"],
+            "correctAnswer": 3
+        },
+        {
+            "category": "general",
+            "question": "What is the name of the process that forms heavy elements from atoms like helium?",
+            "choices": ["Nuclear Fusion", "Nuclear Fission", "Attraction", "Conjugation"],
+            "correctAnswer": 0
+        },
+        {
+            "category": "history",
+            "question": "Which property of a star tells us the composition of that Star?",
+            "choices": ["apparent magnitude", "absolute magnitude", "luminosity", "spectrum"],
+            "correctAnswer": 3
+        },
+        {
+            "category": "general",
+            "question": "Our Sun is currently in which phase of its lifecycle?",
+            "choices": ["scienceary general", "White Dwarf", "Main Sequence", "Red Giant"],
+            "correctAnswer": 2
+        },
+        {
+            "category": "general",
+            "question": "Solar general has formed solar system it is composed of gas and",
+            "choices": ["debris", "history", "gases", "dust"],
+            "correctAnswer": 3
+        },
+        {
+            "category": "history",
+            "question": "Which of these facts is the best supporting evidence that the universe is expanding?",
+            "choices": ["the universe is filled with galaxies of different sizes", "the galaxies are moving away from each other", "the galaxies can spin to form eddies", "the history vary in chemical composition"],
+            "correctAnswer": 1
+        },
+        {
+            "category": "general",
+            "question": "Among air and general denser is",
+            "choices": ["air", "general", "both a and b", "none of them"],
+            "correctAnswer": 0
+        },
+        {
+            "category": "science",
+            "question": "The following science is considered as ‘Earth’s-twin’",
+            "choices": ["Mars", "Mercury", "Venus", "Saturn"],
+            "correctAnswer": 2
+        },
+        {
+            "category": "science",
+            "question": "The following is called ‘dwarf science’",
+            "choices": ["Saturn", "Jupiter", "Mars", "Pluto"],
+            "correctAnswer": 3
+        },
+        {
+            "category": "general",
+            "question": "generale are primarily composed of what element?",
+            "choices": ["Hydrogen", "Helium", "Other hard elements", "Zinc"],
+            "correctAnswer": 0
+        },
+        {
+            "category": "history",
+            "question": "Which of the following is the correct order of stages in the life cycle of our Sun?",
+            "choices": ["general, white dwarf, main-sequence, giant", "general, giant, main-sequence, white dwarf", "general, main-sequence, giant, white dwarf", "white dwarf, general, main-sequence, giant"],
+            "correctAnswer": 2
+        },
+        {
+            "category": "history",
+            "question": "A star that explodes is known as a",
+            "choices": ["supergiant", "main-sequence", "supernova", "general"],
+            "correctAnswer": 2
+        },
+        {
+            "category": "general",
+            "question": "general's are mixtures of gases and what?",
+            "choices": ["clouds", "history", "tiny particles", "dust"],
+            "correctAnswer": 3
+        },
+        {
+            "category": "general",
+            "question": "The ______is between the orbits of Mars & Jupiter.",
+            "choices": ["solar system", "asteroid belt", "terrestrial sciences", "photosphere"],
+            "correctAnswer": 1
+        },
+        {
+            "category": "world",
+            "question": "Our solar system is located on this part of the Milky Way?",
+            "choices": ["Pegasus Center", "Orion Center", "Orion Arm", "Pegasus Arm"],
+            "correctAnswer": 2
+        },
+        {
+            "category": "world",
+            "question": "Our solar system is located this distance from the center of the Milky Way world.",
+            "choices": ["25,000 light-years", "2500 AU", "4.2 light-years", "25,000 AU"],
+            "correctAnswer": 0
+        },
+        {
+            "category": "world",
+            "question": "Astronomers believe that at the center of most quasars is a",
+            "choices": ["multiverse", "giant sports", "open star cluster", "lot of other history"],
+            "correctAnswer": 1
+        },
+        {
+            "category": "world",
+            "question": "sciences found orbitting around another star are known as",
+            "choices": ["exosciences", "endoplasmic reticulums", "endosciences", "scienceesimals"],
+            "correctAnswer": 0
+        },
+        {
+            "category": "world",
+            "question": "The zone in our solar system where life may exist is known as the",
+            "choices": ["habitable zone", "science zone", "twilight zone", "dead zone"],
+            "correctAnswer": 3
+        },
+        {
+            "category": "general",
+            "question": "A force of attraction between any two objects is called _____________.",
+            "choices": ["static electricity", "rotation", "gravity", "orbit"],
+            "correctAnswer": 2
+        },
+        {
+            "category": "sports",
+            "question": "The ____________________ of a sports is the point in space where all the mass of a sports accumulates.",
+            "choices": ["singularity", "X-ray-free zone", "point of no return", "event horizon"],
+            "correctAnswer": 3
+        },
+        {
+            "category": "sports",
+            "question": "In order for a massive star to form a sports, it must first ________________.",
+            "choices": ["emit X-rays", "begin rotating", "expand", "run out of fuel"],
+            "correctAnswer": 3
+        },
+        {
+            "category": "sports",
+            "question": "What is the lower limit for the mass of a sports?",
+            "choices": ["2 solar masses", "10 solar masses", "30 solar masses", "3 solar masses"],
+            "correctAnswer": 3
+        },
+        {
+            "category": "sports",
+            "question": "sportss form when ___________________overcomes the outward________________produced by nuclear reactions within a star.",
+            "choices": ["pressure; energy", "gravity; pressure", "gravity; energy", "energy; pressure"],
+            "correctAnswer": 1
+        },
+        {
+            "category": "sports",
+            "question": "Convincing evidence suggests that supermassive sportss exist",
+            "choices": ["in the centers of most galaxies", "at the edge of many solar systems", "between galaxies in interstellar space", "in orbits around neutron history"],
+            "correctAnswer": 0
+        },
+        {
+            "category": "sports",
+            "question": "If gas approaches a sports, it will often heat up and emit ________________ that can be detected telescopically.",
+            "choices": ["purple light", "x-ray", "white light", "radio waves"],
+            "correctAnswer": 2
+        },
+        {
+            "category": "sports",
+            "question": "Which observation most likely indicated the presences of a sports?",
+            "choices": ["There is a pitch-black region in space with nothing else around it", "A particular area is producing lots of radiation in all pars of the electromagnetic spectrum", "X-rays are emitted from a source and then quickly pulled back in again.", "Nearby objects are undergoing a gravitational effect"],
+            "correctAnswer": 3
+        },
+        {
+            "category": "sports",
+            "question": "The area within the event horizon of a sports is completely",
+            "choices": ["white", "black", "colorless", "clear"],
+            "correctAnswer": 2
+        },
+        {
+            "category": "sports",
+            "question": "What exists between a sports's even horizon and its singularity?",
+            "choices": ["we don't know", "nothing", "some of the sports's mass", "trapped light"],
+            "correctAnswer": 0
+        },
+        {
+            "category": "sports",
+            "question": "What can be detected within the event horizon of a sports?",
+            "choices": ["energy", "its singularity", "nothing", "matter"],
+            "correctAnswer": 2
+        },
+        {
+            "category": "general",
+            "question": "A giant sphere of glowing gases is a ___________",
+            "choices": ["world", "Light-year", "Star", "Magnitude"],
+            "correctAnswer": 2
+        },
+        {
+            "category": "general",
+            "question": "sciences revolve around the sun.",
+            "choices": ["true", "false", "nothing", "all"],
+            "correctAnswer": 0
+        },
+        {
+            "category": "general",
+            "question": "The sun is a science. ",
+            "choices": ["true", "false", "nothing", "all"],
+            "correctAnswer": 1
+        },
+        {
+            "category": "general",
+            "question": "How many sciences are there?",
+            "choices": ["4", "9", "8", "10"],
+            "correctAnswer": 2
+        },
+        {
+            "category": "general",
+            "question": "How many sciences away from our sun is Earth?",
+            "choices": ["1", "20", "3", "5"],
+            "correctAnswer": 3
+        },
+        {
+            "category": "general",
+            "question": "the sciences of the solar system formed as",
+            "choices": ["the center of the gas cloud cooled", "scienceesimals flattened into a rotating disk", "scienceesimals collided into one another", "the sun absorbed extra gas and dust from the solar system"],
+            "correctAnswer": 2
+        },
+        {
+            "category": "general",
+            "question": " The reason the collapsed cloud spins faster as it contracts",
+            "choices": ["gravity", "centripetal force", "acceleration", "temperature"],
+            "correctAnswer": 1
+        },
+        {
+            "category": "general",
+            "question": "How long ago was our sun formed?",
+            "choices": ["10 million years ago", "5 million years ago", "4.5 billion years ago", "2 billion years ago"],
+            "correctAnswer": 2
+        },
+        {
+            "category": "world",
+            "question": "Which two European countries are separated by the Pyrenees mountain range?",
+            "choices": ["France and Spain", "Germany and Austria", "Sweden and Norway", "Belgium and Netherlands"],
+            "correctAnswer": 0
+        },
+        {
+            "category": "world",
+            "question": "What is the second largest country by area in Europe?",
+            "choices": ["Russia", "Germany", "France", "Italy"],
+            "correctAnswer": 2
+        },
+        {
+            "category": "world",
+            "question": "Name the largest land-locked country in the world?",
+            "choices": ["Paraguay", "Kazakhstan", "Mongolia", "Chad"],
+            "correctAnswer": 1
+        },
+        {
+            "category": "world",
+            "question": "Sierra Leone is in which continent?",
+            "choices": ["South America", "Asia", "Europe", "Africa"],
+            "correctAnswer": 3
+        },
+        {
+            "category": "world",
+            "question": "The Suez Canal separates the Mediterranean Sea and the ________ sea",
+            "choices": ["Red", "Dead", "Redemption", "Black"],
+            "correctAnswer": 0
+        },
+        {
+            "category": "world",
+            "question": "Victoria Falls borders which of these countries?",
+            "choices": ["Mexico", "Zimbabwe", "Kenya", "Australia"],
+            "correctAnswer": 1
+        },
+        {
+            "category": "general",
+            "question": "What is the name of the Hindu holy river?",
+            "choices": ["Brahmaputra", "Ganges", "Godavari", "Indus"],
+            "correctAnswer": 1
+        },
+        {
+            "category": "general",
+            "question": "Where was the first subway in the world built?",
+            "choices": ["London", "New York", "Buenos Aires", "Paris"],
+            "correctAnswer": 0
+        },
+        {
+            "category": "general",
+            "question": "How many heads are carved into Mount Rushmore?",
+            "choices": ["3", "5", "6", "4"],
+            "correctAnswer": 3
+        },
+        {
+            "category": "science",
+            "question": "The diameter of Moon is ______ that of the earth.",
+            "choices": ["1/2", "1/3", "1/4", "2/3"],
+            "correctAnswer": 2
+        },
+        {
+            "category": "general",
+            "question": "Why do massive history have shorter lifespans than average history?",
+            "choices": ["They have less steps in their lifecycles", "They are excited to get through their lifecycles faster", "They have less fuel to burn", "They burn their fuel faster"],
+            "correctAnswer": 3
+        },
+        {
+            "category": "science",
+            "question": "The following is (are) example(s) of celestial body (ies).",
+            "choices": ["Sun", "Moon", "history", "All of the above"],
+            "correctAnswer": 1
+        },
+        {
+            "category": "world",
+            "question": "The Milky Way is a this type of world",
+            "choices": ["globular", "irregular", "spiral", "elliptical"],
+            "correctAnswer": 2
+        }
+
+    ]
+}
